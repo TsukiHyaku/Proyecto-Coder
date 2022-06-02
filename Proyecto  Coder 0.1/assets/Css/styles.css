@@ -1,0 +1,216 @@
+/*
+font-family: 'Acme', sans-serif;
+*/
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Acme', sans-serif;
+}
+
+/*Header*/
+.envios{
+    background-color: #00C995;
+    color: #FFFFFF;
+    width: 100%;
+        }
+
+
+/*Barra de Navegacion*/
+.navBar {
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.57);
+    text-decoration: none;
+}
+
+.iconNav {
+    width: 40px;
+}
+
+.iconOtaku {
+    width: 60px;
+}
+
+/*Tarjeta de Producto*/
+.tarjeta {
+    width: 250px;
+}
+
+.Seccion {
+    color: rgba(255, 110, 110, 1);
+}
+
+.tarjetaImg {
+    width: 80%;
+}
+
+.tarjetaTitulo {
+    color: rgba(255, 158, 15, 1);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.tarjetaEditorial{
+    font-size: 11px;
+    color: rgba(33, 166, 131, 1);
+}
+
+.tarjetaPrecio{
+    font-size: 14px;
+    color: black;
+}
+
+/*Apartado del Producto*/
+.mangaImg{
+    width: 300px;
+}
+
+.Titulo{
+    color:rgba(255, 158, 15, 1);
+    font-weight: 600;
+}
+
+.Editorial {
+    font-size: 17px;
+    color: rgba(33, 166, 131, 1);
+}
+
+.Stock {
+    font-size: 27px;
+    color: rgba(70, 108, 245, 1);
+}
+
+.Precio {
+    font-size: 27px;
+    color: rgba(71, 112, 134, 1);
+}
+
+.tituloDescripcion {
+    font-size: 25px;
+    color: rgba(71, 112, 134, 1);
+}
+
+.Descripcion {
+    color: rgba(197, 157, 129, 1);
+}
+
+.tituloDetallesProducto {
+    font-size: 25px;
+    color: rgba(71, 112, 134, 1);
+}
+
+.detallesProducto {
+    color: rgba(197, 157, 129, 1);
+}
+
+
+/*Productos Relacionados*/
+.productosRelacionados {
+    font-size: 25px;
+    color: rgba(71, 112, 134, 1);    
+}
+
+.tarjetaImgRelacionado {
+    width: 10%;
+}
+
+.tarjetaTituloRelacionados {
+    color: rgba(255, 158, 15, 1);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.tarjetaEditorialRelacionados{
+    font-size: 11px;
+    color: rgba(33, 166, 131, 1);
+}
+
+.tarjetaPrecioRelacionados{
+    font-size: 13px;
+    color: black;
+}
+
+
+/*Login*/
+.Bienvenida {
+    font-size: 50px;
+}
+
+.iconForm {
+    width: 3%;
+}
+
+.olvidasteContraseña {
+    color: black;
+    text-decoration: none;
+}
+
+.continuarCon {
+    color: red;
+    font-size: 30px;
+}
+
+.iniciarConGoogleImg {
+    width: 30px;
+}
+
+.iniciarConFacebookImg {
+    width: 33px;
+}
+
+.creaCuenta {
+    color: red;
+    text-decoration: none;
+}
+
+/*Catalogo*/
+.seMuestran {
+    font-size: 30px;
+    color: rgba(70, 108, 245, 1);
+}
+
+.Resultados {
+    font-size: 30px;
+    color: rgba(33, 166, 131, 1);
+}
+
+.categoriasTitle {
+    font-size: 35px;
+    color: rgba(252, 141, 81, 1);
+}
+
+.categoria{
+    color: rgba(33, 166, 131, 1);
+}
+
+/*Registro*/
+.registrarCuenta {
+    font-size: 50px;
+}
+
+.iniciarSesion {
+    color: red;
+    text-decoration: none;
+}
+
+
+/*Footer*/
+footer {
+    background-color: rgb(48, 48, 48)
+}
+
+.redesSocialesTitle {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.derechosReserv{
+    color: #FFFFFF;
+}
+
+.redesImg {
+    width: 30px;
+}
