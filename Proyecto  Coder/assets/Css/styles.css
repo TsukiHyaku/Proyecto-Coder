@@ -1,0 +1,257 @@
+/*
+font-family: 'Acme', sans-serif;
+*/
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Acme', sans-serif;
+}
+
+/*Header*/
+.envios{
+    background-color: #00C995;
+    color: #FFFFFF;
+    width: 100%;
+        }
+
+
+/*Barra de Navegacion*/
+.navBar {
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.57);
+}
+
+.iconNav {
+    width: 40px;
+    margin: 10px;
+    display: inline;
+}
+
+.iconOtaku {
+    width: 60px;
+    display: inline;
+    margin: 10px;
+}
+
+/*secciones (Recomendados,Preventas,etc)*/
+
+.Seccion {
+    color: rgba(255, 110, 110, 1);
+}
+
+/*Tarjeta de Producto*/
+.tarjeta {
+    width: 250px;
+    margin: 30px;
+}
+
+.tarjetaImg {
+    width: 80%;
+}
+
+.tarjetaTitulo {
+    color: rgba(255, 158, 15, 1);
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.tarjetaEditorial{
+    font-size: 15px;
+    color: rgba(33, 166, 131, 1);
+    padding: 0px 5px;
+}
+
+.tarjetaPrecio{
+    font-size: 17px;
+    color: black;
+}
+
+/*Apartado del Producto*/
+.mangaImg{
+    width: 300px;
+    margin: 50px 30px;
+}
+
+.Titulo{
+    color:rgba(255, 158, 15, 1);
+    font-weight: 600;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.Editorial {
+    font-size: 17px;
+    color: rgba(33, 166, 131, 1);
+    margin-left: 5px;
+}
+
+.Stock {
+    font-size: 27px;
+    color: rgba(70, 108, 245, 1);
+    margin-left: 5px;
+}
+
+.Precio {
+    font-size: 27px;
+    color: rgba(71, 112, 134, 1);
+    margin-left: 5px;
+}
+
+.tituloDescripcion {
+    font-size: 25px;
+    color: rgba(71, 112, 134, 1);
+    margin-left: 5px;
+}
+
+.Descripcion {
+    color: rgba(197, 157, 129, 1);
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.tituloDetallesProducto {
+    font-size: 25px;
+    color: rgba(71, 112, 134, 1);
+    margin: 5px 0px;
+    margin-left: 5px;
+}
+
+.detallesProducto {
+    color: rgba(197, 157, 129, 1);
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+
+/*Productos Relacionados*/
+section div {
+    margin: 30px;
+}
+
+.productosRelacionados {
+    font-size: 25px;
+    color: rgba(71, 112, 134, 1);  
+    margin-left: 5px;  
+}
+
+.tarjetaImgRelacionado {
+    width: 10%;
+}
+
+
+/*Catalogo*/
+.seMuestran {
+    font-size: 30px;
+    color: rgba(70, 108, 245, 1);
+    display: inline;
+    margin-left: 20px;
+}
+
+.Resultados {
+    font-size: 30px;
+    color: rgba(33, 166, 131, 1);
+    display: inline;
+    margin-left: 10px;
+}
+
+.categoriasTitle {
+    font-size: 35px;
+    color: rgba(252, 141, 81, 1);
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-bottom: #FF6E6E solid 3px ;
+}
+
+.categoria{
+    color: rgba(33, 166, 131, 1);
+}
+
+.categoriaList{
+    margin: 13px;
+}
+
+
+/*Login*/
+.Bienvenida {
+    font-size: 50px;
+    margin: 20px;
+}
+
+.iconForm {
+    width: 3%;
+    padding: 10px;
+}
+
+.olvidasteContraseña {
+    color: black;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.continuarCon {
+    color: red;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.iniciarConGoogleImg {
+    width: 30px;
+    margin-right: 20px;
+}
+
+.iniciarConFacebookImg {
+    width: 33px;
+    
+}
+
+.nuevoUsuario {
+    margin-top: 10px;
+}
+.creaCuenta {
+    color: red;
+    text-decoration: none;
+}
+
+
+/*Registro*/
+.registrarCuenta {
+    font-size: 50px;
+    margin: 20px;
+}
+
+.iniciarSesion {
+    color: red;
+    text-decoration: none;
+}
+
+.yaEresUsuario{
+    margin-top: 10px;
+}
+
+/*Footer*/
+footer {
+    background-color: rgb(48, 48, 48)
+}
+
+.derechosReserv{
+    color: #FFFFFF;
+    margin: 20px;
+}
+
+.redesSocialesTitle {
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.redesImg {
+    width: 30px;
+    padding: 10px;
+
+}
